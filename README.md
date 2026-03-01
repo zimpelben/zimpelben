@@ -2,7 +2,7 @@
 
 IT support specialist who is transitioning to be a Devops Engineer. Currently focusing on Linux, Azure and Kubernetes. 
 
-### Current Projects
+## Current Projects
 
 #### Kubernetes homelab
 
